@@ -20,7 +20,7 @@ const useMovieTrailer = (movieId) => {
       (videos) => videos.type === "Trailer"
     );
     const trailer = movieTrailers.length ? movieTrailers[0] : data.results[0];
-    console.log(trailer);
+    // console.log(trailer);
     dispatch(trailerVideo(trailer));
   };
 

@@ -20,7 +20,9 @@
 -Updated Store with data 
 -Create movieSlice 
 -Created moive trialer custom hook
-
+-Movie List 
+-Movie Cards
+-Multi language feature
 
 # Features
 - Login/Signup
